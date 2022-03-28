@@ -54,7 +54,7 @@ We included also the different data and config files used to perform the experim
 
 ## Results
 
-We were able to outperform of the original paper with an accuracy of around __0.5__ for the baseline BERT.
+We were able to reach the result of the original paper with an accuracy of around __0.45__ for the baseline BERT.
 We discovered also that using a lightweight model as DistilBERT or a complex one like RoBERTa, slightly improve the results with respect to classical BERT.
 
 Below we report the mean accuracy and standard deviation obtained over runs with different starting seeds for the tested models on the original taxonomy
