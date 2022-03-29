@@ -1,5 +1,5 @@
 # GoEmotions
-Sentiment analysis over GoEmotions dataset. In collaboration with @orientino and @Gerlando30.
+Sentiment analysis over GoEmotions dataset. In collaboration with [@orientino](https://github.com/orientino) and [@Gerlando30](https://github.com/Gerlando30).
 
 ## Description
 
