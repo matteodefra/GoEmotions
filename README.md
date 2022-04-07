@@ -1,5 +1,6 @@
 # GoEmotions
-Sentiment analysis over GoEmotions dataset. In collaboration with [@orientino](https://github.com/orientino) and [@Gerlando30](https://github.com/Gerlando30).
+Sentiment analysis over GoEmotions dataset. 
+<!--- In collaboration with [@orientino](https://github.com/orientino) and [@Gerlando30](https://github.com/Gerlando30). -->
 
 ## Description
 
@@ -60,3 +61,12 @@ We discovered also that using a lightweight model as DistilBERT or a complex one
 Below we report the mean accuracy and standard deviation obtained over runs with different starting seeds for the tested models on the original taxonomy
 
 ![test_accuracy_original](images/test_accuracy.png "Test accuracy original")
+
+
+## Contributors
+
+[Matteo De Francesco](https://matteodefra.github.io/)
+
+[Gerlando Gramaglia](https://github.com/Gerlando30)
+
+[Chenxiang Zhang](https://github.com/orientino)
